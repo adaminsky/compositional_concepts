@@ -1,0 +1,16 @@
+accelerate
+fast_pytorch_kmeans==0.2.0.1
+gdown
+matplotlib==3.7.2
+numpy==1.25.0
+pandas==2.0.3
+pre-commit
+pytorch-lightning
+scikit-image
+scikit_learn==1.3.0
+scipy==1.13.0
+setuptools==68.0.0
+tabulate
+timm
+tqdm==4.65.0
+transformers==4.31.0
